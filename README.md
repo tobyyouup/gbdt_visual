@@ -8,6 +8,6 @@ A gbdt visualization tool, which can:
 
 
 The GBDT tree structures are as follows:
-![image](https://github.com/tobyyouup/gbdt_visual/tree/master/img/gbdt_viz1.jpg)
-![image](https://github.com/tobyyouup/gbdt_visual/tree/master/img/gbdt_viz2.jpg)
+![image](https://github.com/tobyyouup/gbdt_visual/raw/master/img/gbdt_viz1.jpg)
+![image](https://github.com/tobyyouup/gbdt_visual/raw/master/img/gbdt_viz2.jpg)
 
